@@ -1,4 +1,6 @@
 # EDA_piso
+![img_readme](https://github.com/user-attachments/assets/5e7f1e0e-6b73-4b81-815b-b2af6bcfb690)
+
 
 El precio de la vivienda sigue una tendencia alcista que parece no tener fin en los últimos años.
 El objetivo de este Analisis Exploratorio de datos es confirmar o desmentir ciertas hipótesis que podrían plantearse para entender los motivos de esta tendencia.
