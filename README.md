@@ -23,6 +23,8 @@ Se está promoviendo ahora la idea de que liberar suelo para construir vivienda 
 #### 6
 Con los datos de inmigración que poseemos, ¿podríamos establecer que el número de solicitantes de vivienda pública crece en la misma proporción a la llegada de nuevos ciudadanos, lo cuál sería lógico al ser personas recién llegadas con necesidades habitacionales, o por el contrario su peso es inferior al que proporcionalmente les correspondería?
 
+![onemorething2](https://github.com/user-attachments/assets/704b8d36-9d14-47b9-981b-663df8be7dd9)
+
 #### 7 
 Como hemos podido ver hasta ahora, la vivienda es un problema público del que un actor fundamental es político. Siendo este ámbito historicamente dominado por el género masculino y con los datos que tenemos la creciente llegada de más mujeres a la toma de decisiones ha ayudado a reducir el crecimiento del precio de la vivienda?
 
