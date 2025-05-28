@@ -1,12 +1,15 @@
 # EDA_piso
 ![img_readme](https://github.com/user-attachments/assets/5e7f1e0e-6b73-4b81-815b-b2af6bcfb690)
 
-
+#### Introducción
 El precio de la vivienda sigue una tendencia alcista que parece no tener fin en los últimos años.
-El objetivo de este Analisis Exploratorio de datos es confirmar o desmentir ciertas hipótesis que podrían plantearse para entender los motivos de esta tendencia.
+El objetivo de este Analisis Exploratorio de datos es confirmar o desmentir ciertas hipótesis que podrían plantearse para entender los motivos de esta tendencia. 
+Mostramos unos gráficos para poner en contexto al lector de la casuística objeto de estudio.
+
+#### Introducción
 
 #### 1
-Se está promoviendo ahora la idea de que liberar suelo para construir vivienda limitaría su precio. Basado en la serie de datos que conocemos ¿podemos decir que se construye más vivienda protegida en territorios con más suelo liberado?
+Se está promoviendo ahora la idea de que liberar suelo para construir vivienda limitaría su precio. Basado en la serie de datos que conocemos ¿podemos decir que se construye más vivienda en territorios con más suelo liberado?
 
 #### 2
 ¿A mayor número de viviendas construidas libres baja el precio de la vivienda? Si existe alguna serie con un incremento notable en el número de viviendas construidas de promoción libre se redujo en esa serie anual el número de solicitantes de vivienda pública?
